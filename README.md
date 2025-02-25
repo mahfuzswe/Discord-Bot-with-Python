@@ -61,7 +61,7 @@ Before you start, ensure you have the following:
 1. **Clone the Repository**:
    - Clone this repository to your local machine:
      ```bash
-     git clone https://github.com/your-username/discord-bot.git
+     git clone https://github.com/mahfuzswe/Discord-Bot-with-Python.git
      ```
 
 2. **Replace the Bot Token**:
