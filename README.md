@@ -26,7 +26,7 @@ This project demonstrates how to create a simple Discord bot using Python. The b
 - Easy setup and deployment using Python and the Discord API.
 
 
-![How It Works](assets/how_it_works.png)
+![How It Works](./Assets/How%20it%20works.png)
 
 This section provides a visual representation of how the bot works. The bot listens for the `$meme` command, fetches a meme from the Meme API, and sends it back to the Discord channel.
 
